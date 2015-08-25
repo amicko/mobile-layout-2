@@ -1,6 +1,33 @@
 .header {
 	background-color: #008AC3;
-	height: 2.75em;
+	height: 2.65em;
+	padding-top: .1em;
+}
+
+.headBox1 {
+	background-color: white;
+	height: 1.75em;
+	width: 1.75em;
+	float: left;
+	margin-top: .3em;
+	margin-left: .75em;
+	margin-right: .75em;
+}
+
+.headBox2 {
+	background-color: white;
+	height: 1.75em;
+	width: 6.625em;
+	float: left;
+	margin-top: .3em;
+}
+
+.headBox3 {
+	background-color: #0070A4;
+	height: 2.7em;
+	width: 4.125em;
+	float: right;
+	margin-top: -.08em;
 }
 
 .main {
@@ -68,6 +95,22 @@ a {
 	margin-bottom: 1.625em;
 }
 
+.grey1 {
+	background-color: #616E7F;
+	height: 3.125em;
+	width: 2.75em;
+	float: left;
+	margin-top: .59em;
+}
+
+.grey2 {
+	background-color: #616E7F;
+	height: 3em;
+	width: 13.44em;
+	float: left;
+	margin-left: .5em;
+}
+
 .lightBlue {
 	height: 10.625em;
 	background-color: #E8F0F5;
@@ -84,7 +127,43 @@ a {
 	margin-bottom: 1.875em;
 	margin-left: .625em;
 	margin-right: .625em;
-	height: 12em;
+	height: 10.75em;
+	padding-top: 1.25em;
+}
+
+.topBox {
+	background-color: #C7D2D8;
+	height: 3.5em;
+	width: 3.44em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.midBox {
+	background-color: #C7D2D8;
+	height: 1.25em;
+	width: 22.875em;
+	margin-top: .5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lastBox1 {
+	background-color: #C7D2D8;
+	height: 2.75em;
+	width: 22.875em;
+	margin-top: .8em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lastBox2 {
+	background-color: #C7D2D8;
+	height: 4.0625em;
+	width: 22.875em;
+	margin-top: .8em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .nearLast {
